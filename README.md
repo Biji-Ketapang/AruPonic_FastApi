@@ -28,6 +28,9 @@ Frontend ini membutuhkan data dari backend. Jalankan perintah ini di terminal (a
 # 1. Buat Virtual Environment (Hanya pertama kali)
 python -m venv .venv
 
+# cek versi python
+pyhton version
+
 # 2. Aktifkan Virtual Environment
 # Untuk Windows:
 .venv\Scripts\Activate.ps1
