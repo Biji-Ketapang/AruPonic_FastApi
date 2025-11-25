@@ -1,4 +1,4 @@
-# 🚀 Aruponic Dashboard (Frontend)
+# 🚀 Aruponic Dashboard (Backend)
 
 Repository ini berisi *source code* antarmuka (Backend) untuk proyek **Aruponic**, dibangun menggunakan **React** dan **Vite**. Aplikasi ini berfungsi untuk memvisualisasikan data dan berinteraksi dengan model *Deep Learning* di sisi backend.
 
